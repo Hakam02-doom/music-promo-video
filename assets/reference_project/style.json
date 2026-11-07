@@ -1,0 +1,53 @@
+{
+  "_note": "Universal look settings for the dark version (kept apart from this project's media and timecodes).",
+  "fps": 120,
+  "bg_rgb": [
+    10,
+    10,
+    11
+  ],
+  "ink_rgb": [
+    242,
+    242,
+    240
+  ],
+  "dim_rgb": [
+    167,
+    167,
+    167
+  ],
+  "green_rgb": [
+    30,
+    215,
+    96
+  ],
+  "grain": {
+    "amount": 0.022,
+    "size": 1.15,
+    "on_covers": 0.5
+  },
+  "bloom": {
+    "amount": 0.14,
+    "threshold": 0.7,
+    "sigmas": [
+      6,
+      18,
+      42
+    ]
+  },
+  "stepped_text_fps": 15,
+  "fonts": {
+    "sans": [
+      "/System/Library/Fonts/HelveticaNeue.ttc",
+      1
+    ],
+    "serif_italic": [
+      "/System/Library/Fonts/Supplemental/Didot.ttc",
+      1
+    ],
+    "mono": [
+      "/System/Library/Fonts/Menlo.ttc",
+      0
+    ]
+  }
+}
